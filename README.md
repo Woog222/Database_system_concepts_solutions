@@ -1,7 +1,7 @@
 # Database_system_concepts
 ![image](https://github.com/Woog222/Database_system_concepts/assets/96822822/66527b47-528b-4859-8e5e-2bd166a6052f)
 
-Unofficial solution for Database System Concepts, 7th edition <br>
+Unofficial solutions for Database System Concepts, 7th edition <br>
 ongoing now <br>
 any contribution will be appreciated <br>
 
